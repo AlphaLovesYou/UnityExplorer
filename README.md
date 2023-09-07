@@ -32,7 +32,7 @@
 | Release | IL2CPP | Mono |
 | ------- | ------ | ---- |
 | ML 0.5  | ✅ [link](https://github.com/sinai-dev/UnityExplorer/releases/latest/download/UnityExplorer.MelonLoader.IL2CPP.zip) | ✅ [link](https://github.com/sinai-dev/UnityExplorer/releases/latest/download/UnityExplorer.MelonLoader.Mono.zip) | 
-| ML 0.6  | ✅ [link](https://github.com/AlphaLovesYou/UnityExplorer/releases/latest/download/UnityExplorer.MelonLoader.IL2CPP.net6preview.interop.zip) | ✖️ |
+| ML 0.6  | ✅ [link](https://github.com/AlphaLovesYou/UnityExplorer/releases/download/release/UnityExplorer.MelonLoader.IL2CPP.net6preview.interop.zip) | ✖️ |
 
 1. Unzip the release file into a folder
 2. Copy the DLL inside the `Mods` folder into your MelonLoader `Mods` folder
